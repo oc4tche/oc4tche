@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm oc4</h1>
+<h1 align="center">Hi 👋 I'm borz</h1>
 
 ```javascript
 class Attributes {
