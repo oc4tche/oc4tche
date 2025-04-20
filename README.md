@@ -3,7 +3,7 @@
 ```javascript
 class Attributes {
     constructor() {
-        this.langs = ['English', 'Russian'];
+        this.langs = ['English', 'Russian', 'French', 'Chechen'];
         this.age = null;
         this.specialities = 'automation';
         this.environment = 'VSCode';
