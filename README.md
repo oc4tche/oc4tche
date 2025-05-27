@@ -47,11 +47,11 @@ class Attributes {
 
 <div align="left">
   <div style="display: flex; justify-content: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oc4tche&theme=github_dark" alt="GitHub Stats" style="width: 35%;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oc4tche&theme=github_dark" alt="Top Languages" style="width: 35%;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oc4tche&theme=github_dark" alt="GitHub Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oc4tche&theme=github_dark" alt="Top Languages" />
   </div>
   <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oc4tche&theme=github_dark" alt="Top Languages by Commit" style="width: 70%;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oc4tche&theme=github_dark" alt="Top Languages by Commit" />
   </div>
 </div>
 
