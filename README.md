@@ -1,30 +1,5 @@
 <h1 align="center">Hi 👋 I'm spretokk</h1>
 
-```javascript
-class Attributes {
-    constructor() {
-        this.langs = ['English', 'Russian', 'French', 'Chechen'];
-        this.age = null;
-        this.specialities = 'automation';
-        this.environment = 'VSCode';
-    }
-
-    contact() {
-        return 'No contact information provided.';
-    }
-
-    life() {
-        return { langs: this.langs, age: this.age };
-    }
-
-    coding() {
-        return {
-            specialities: this.specialities,
-            environment: this.environment
-        };
-    }
-}
-```
 
 **Tools and Services:**
 
